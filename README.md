@@ -1,8 +1,6 @@
 # Formal-System-Solver
 This is a bot that beats all of the puzzles on a professor's website
 
-The link to the game is "http://michaelwehar.com/metatree/replacement/login.html"
-
 
 One of my favorite topics in computer science is automation. I think it is really cool that a computer can
                 omit any human need to perform an activity. A friend of mine, and also a professor at Temple University, Michael Wehar,
