@@ -3,7 +3,7 @@ This is a bot that beats all of the puzzles on a professor's website
 
 
 One of my favorite topics in computer science is automation. I think it is really cool that a computer can
-                omit any human need to perform an activity. A friend of mine, and also a professor at Temple University, Michael Wehar,
+                omit any human need to perform an activity. A friend of mine, and also a former professor at Temple University, Michael Wehar,
                 has a game on his
                 <a href="http://michaelwehar.com/metatree/replacement/" target="_blank">website</a>
                 where you are given a starting string and must derive a new
